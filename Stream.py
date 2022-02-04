@@ -1,4 +1,4 @@
-#this is code from the official raspberry pi camera tutorial page
+#this is code from the official raspberry pi camera tutorial page (https://picamera.readthedocs.io/en/release-1.13/recipes2.html#web-streaming)
 #it streams the video to a web page which can then be accessed by a different script
 import time
 import RPi.GPIO as GPIO
