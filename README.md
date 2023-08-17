@@ -4,8 +4,8 @@ An autonomous, self-contained turret built for under $40
 
 ## 🚀 Overview
 
-Because it was done so cheaply, I used a **Raspberry Pi Zero** which could only process one image every few seconds. 
-To get around the speed problem, I used socket communication 
+I used a **Raspberry Pi Zero** to make this build even cheaper. It could only process one image every few seconds so 
+I used socket communication to send the data to my laptop for further processing. 
 
 ## 🛠 Process
 
@@ -20,8 +20,3 @@ To get around the speed problem, I used socket communication
 ## 📷 Demo
 
 ![Self Aiming Cannon Demo](https://github.com/NoahBSchwartz/Self-Aiming-Cannon/assets/44248582/719d333b-5602-4cad-a93b-8f3a38d87380)
-
-## 🚀 How to Use
-
-(Provide step by step instructions for setting up and running the project.)
-
