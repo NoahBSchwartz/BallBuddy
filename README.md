@@ -5,7 +5,7 @@ An autonomous, self-contained turret built for under $40
 ## 🚀 Overview
 
 I used a **Raspberry Pi Zero** to make this build even cheaper. It could only process one image every few seconds so 
-I used socket communication to send the data to my laptop for further processing. 
+I had to send the data back and forth to my laptop for further processing. 
 
 ## 🛠 Process
 
