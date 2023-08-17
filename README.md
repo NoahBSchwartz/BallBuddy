@@ -15,7 +15,7 @@ I had to send the data back and forth to my laptop for further processing.
    
 3. Send hand coordinates and finger count data back to the Raspberry Pi.
    
-4. Position the servos, activate the pump, and stop the pump when the ball leaves the barrel.
+4. Position the servos, activate the pump when five fingers are detected, and stop the pump when the ball leaves the barrel.
 
 ## 📷 Demo
 
