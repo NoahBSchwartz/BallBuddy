@@ -19,4 +19,5 @@ I had to send the data back and forth to my laptop for further processing.
 
 ## 📷 Demo
 
-![Self Aiming Cannon Demo](https://github.com/NoahBSchwartz/Self-Aiming-Cannon/assets/44248582/719d333b-5602-4cad-a93b-8f3a38d87380)
+
+![Screenshot 2023-08-18 at 6 47 21 PM](https://github.com/NoahBSchwartz/BallBuddy/assets/44248582/28d31610-2d85-4808-a584-5e53ebdf3e02)
